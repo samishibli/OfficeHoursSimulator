@@ -1,0 +1,36 @@
+Aidan
+AVL Algorithm Algorithms All-Pairs Arrays B+ Binary Byzantine Cache Change Coin Collection Compression Consensus Counting Cryptography Data Digital Dijkstra's External Fault Floyd-Warshall Garbage Hashing Heap Johnson's Key Knapsack Kruskal's Lists Paths Policies Priority Problem Public Queues Red-Black Replacement Search Shortest Signatures Skip Sort Sorting Suffix Tolerance Trees vs. 
+Amy
+(DFS) AVL Algorithm Algorithms All-Pairs Bellman-Ford Bucket Change Coding Coin Compression Cryptography Data Database Depth-First Dynamic Graphs Huffman Insertion Key Knapsack Lempel-Ziv-Welch Lists Management Memoization Memory Normalization Paths Prim's Problem Programming Public Radix Search Segment Shortest Skip Sort Sorting Suffix Topological Trees in 
+Ashley
+(BFS) (LZW) B+ Breadth-First Bubble Bucket Burrows-Wheeler Compression Cryptographic Data Database Distributed Fenwick Functions Hash Knapsack Lempel-Ziv-Welch Management Memory NP-Completeness Normalization Problem Quick Search Selection Sort Stacks Structure Tables Transform Trees Union-Find 
+Connie
+(DFS) (MST) Algorithm Algorithms Change Coin Collection Concurrency Control Cryptographic Cryptography Data Databases Depth-First Dijkstra's Disjoint Distributed Encryption External Fenwick Functions Garbage Hamiltonian Hash Hashing Heap Heaps Insertion Key Management Memory Merge Minimum NP-Completeness Page Paging Path Priority Problem Public Queues Replacement Salesman Search Selection Set Sort Sorting Spanning Standards Systems Traveling Tree Trees Union and in 
+Connor
+Algorithm Algorithms All-Pairs B-trees Bellman-Ford Big-O Breadth-First Collection Components Compression Connected Counting Data Database Deadlock Detection Distributed Encryption External Flows Garbage Graphs Hamiltonian Heap Indexing Lempel-Ziv-Welch Memoization Network Notation Optimization Path Paths Prevention Query Quick SQL Search Shortest Sort Sorting Standards Strongly Structure Systems Union-Find and in 
+Felix
+(BFS) (DFS) (SCC) Algorithm Algorithms All-Pairs Bellman-Ford Big-O Breadth-First Chain Change Coding Coin Components Compression Connected Cryptographic Data Database Deadlock Depth-First Detection Dynamic Fenwick Flows Functions Hash Hashing Huffman Indexing Matrix Memoization Minimum Multiplication Network Notation Paths Prevention Problem Programming Radix Search Shortest Sort Spanning Strongly Structure Tables Tree Trees Union-Find and 
+Graham
+ (BFS) (DES) (SCC) (TSP) AVL Algorithm Algorithms Articulation Big-O Breadth-First Burrows-Wheeler Change Coding Coin Components Connected Consensus Counting Data Distance Distributed Edit Encryption External Graphs Huffman Johnson's Knapsack Notation Paths Points Problem Queues Salesman Search Shortest Sort Sorting Standards Strongly Systems Transform Traveling Trees in 
+Henry
+Algorithm Algorithms Arrays B+ Binary Change Coin Collection Compression Consensus Counting Cryptography Data Database Digital External Garbage Graphs Indexing Job Johnson's Key Linked Lists Management Memory Optimization Problem Public Query SQL Scheduling Search Signatures Sort Sorting Stacks Topological Trees Virtual 
+Jared
+Algorithm Algorithms B+ Burrows-Wheeler Change Coin Collection Database Digital Distributed External Garbage Hamiltonian Hash Hashing Heap Heaps Indexing Insertion Job Johnson's Management Memory Page Paging Path Problem Quick Replacement Scheduling Signatures Sort Sorting Stacks Systems Tables Transform Trees and 
+Jerry
+ B+ Byzantine Cache Common Concurrency Control Cryptography Data Databases Deadlock Depth-First Detection Encryption Fault Hamiltonian Heap Key Linked Lists Longest Memory Merge NP-Completeness Path Policies Prevention Processing Public Query Queues Quick Radix Replacement Search Segment Sort Standards Subsequence Tolerance Trees Virtual and in 
+Kate
+Algorithm Algorithms Burrows-Wheeler Cache Collection Consensus Dijkstra's Disjoint Distance Distributed Edit Garbage Hamiltonian Hash Job Johnson's Knapsack Lists Memoization Memory Merge Optimization Path Problem Query Queues SQL Scheduling Set Skip Sort Stacks Systems Tables Transform Union 
+Kevin
+AVL Algorithm Algorithms Bucket Cache Change Coding Coin Consensus Cryptography Deadlock Detection Flows Floyd-Warshall Graphs Hash Heaps Huffman Johnson's Key Kruskal's Management MapReduce Memory Network Paths Prevention Priority Problem Public Queues Red-Black Selection Shortest Sort Tables Trees and in vs. 
+Louis
+(LZW) (TSP) Algorithm Algorithms Arrays B-trees Big-O Breadth-First Collection Compression Counting Data Database Dijkstra's Distance Distributed Edit File Garbage Graphs Hash Hashing Indexing Insertion Knapsack Lempel-Ziv-Welch Linked Lists Management MapReduce Memory NP-Completeness Notation Organization Problem Processing Query Quick Radix Salesman Search Selection Sort Subset Sum Systems Tables Traveling 
+Paula
+AVL Algorithm Arrays B+ B-trees Bellman-Ford Bucket Change Coin Cryptography Digital Dijkstra's Distance Distributed Edit Graphs Key Kruskal's Linked Lists Merge Problem Public Queues Red-Black Salesman Selection Signatures Sort Sorting Systems Topological Traveling Trees vs. 
+Rachel
+(DES) (DHT) (MST) Algorithm Algorithms Arrays B-trees Byzantine Chain Change Coin Collection Compression Cryptographic Data Digital Dijkstra's Distributed Encryption Fault Floyd-Warshall Functions Garbage Hash Heaps Lists MapReduce Matrix Minimum Multiplication Prim's Problem Segment Signatures Skip Spanning Standards Tables Tolerance Tree Trees 
+Rodger
+Algorithm Algorithms Articulation B+ Big-O Bubble Burrows-Wheeler Byzantine Cache Coding Data Deadlock Detection Dijkstra's Disjoint Distance Edit Encryption Fault Fenwick File Graphs Hash Heap Huffman Job Johnson's Linked Lists Matching Memory Notation Organization Paths Points Policies Prevention Problem Red-Black Replacement Scheduling Segment Set Shortest Skip Sort Standards String Subset Sum Tables Tolerance Transform Trees Union Virtual and in 
+Sami
+(DES) (DFS) Algorithm Algorithms Arrays B+ Burrows-Wheeler Common Compression Data Depth-First Encryption Flow Floyd-Warshall Graphs Hamiltonian Lists Longest Maximum Memoization NP-Completeness Path Prim's Search Skip Sorting Standards Subsequence Topological Transform Trees 
+Wendy
+AVL Algorithm Algorithms Arrays Binary Consensus Data Database Fenwick Floyd-Warshall Graphs Hash Job Merge Normalization Paths Priority Problem Processing Query Queues Quick RSA Radix Red-Black Scheduling Search Shortest Sort Sorting Structure Tables Topological Trees Union-Find in vs. 

@@ -1,0 +1,91 @@
+Arrays
+Linked Lists
+Stacks
+Queues
+Trees
+Binary Search Trees
+AVL Trees
+Red-Black Trees
+B-trees
+Graphs
+Depth-First Search (DFS)
+Breadth-First Search (BFS)
+Dijkstra's Algorithm
+Bellman-Ford Algorithm
+Prim's Algorithm
+Kruskal's Algorithm
+Topological Sorting
+Disjoint Set Union (DSU)
+Hash Tables
+Heaps
+Priority Queues
+Heap Sort
+Merge Sort
+Quick Sort
+Radix Sort
+Bucket Sort
+Counting Sort
+Selection Sort
+Bubble Sort
+Insertion Sort
+Suffix Trees
+Segment Trees
+Fenwick Trees
+Union-Find Data Structure
+Hashing Algorithms
+Dynamic Programming
+Memoization
+Longest Common Subsequence (LCS)
+Knapsack Problem
+Matrix Chain Multiplication
+Edit Distance
+Subset Sum Problem
+Coin Change Problem
+Shortest Paths in Graphs
+Floyd-Warshall Algorithm
+Johnson's Algorithm
+All-Pairs Shortest Paths
+NP-Completeness
+Traveling Salesman Problem (TSP)
+Hamiltonian Path
+Job Scheduling Problem
+Minimum Spanning Tree (MST)
+Maximum Flow
+Network Flows
+Bipartite Matching
+Strongly Connected Components (SCC)
+Articulation Points
+String Matching Algorithms
+Skip Lists
+AVL Trees vs. Red-Black Trees
+Garbage Collection Algorithms
+Memory Management
+Cache Memory
+Cache Replacement Policies
+Virtual Memory
+Paging and Page Replacement Algorithms
+External Sorting
+File Organization
+Database Indexing
+Database Normalization
+SQL Query Optimization
+Query Processing
+B+ Trees
+Concurrency Control in Databases
+Deadlock Detection and Prevention
+Distributed Systems
+MapReduce
+Distributed Hash Tables (DHT)
+Byzantine Fault Tolerance
+Consensus Algorithms
+Lempel-Ziv-Welch (LZW) Compression
+Cryptographic Hash Functions
+Public Key Cryptography
+RSA Algorithm
+Digital Signatures
+Data Compression Algorithms
+Huffman Coding
+Burrows-Wheeler Transform
+Data Encryption Standards (DES)
+Big-O Notation
+
